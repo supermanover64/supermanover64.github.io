@@ -11,5 +11,5 @@ const size = new Vec2(width / dim, height / dim);
 
 // Title change
 var title = document.createElement("Title");
-title.innerText = "SnakeGame";
+title.innerText = "slange";
 document.body.appendChild(title);
